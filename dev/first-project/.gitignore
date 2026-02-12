@@ -1,0 +1,16 @@
+.DS_Store
+	.anydesk/
+	.gitconfig
+	.lesshst
+	.vscode/
+	.yandex/
+	.zsh_history
+	.zsh_sessions/
+	Desktop/
+	Documents/
+	Downloads/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Public/
