@@ -1,0 +1,16 @@
+.container {
+  display: grid;
+  /* Три колонки */
+  grid-template-columns: auto auto auto;
+  /* Два ряда */
+  grid-template-rows: auto auto;
+  /* Автоматическое размещение в ряд */
+  grid-auto-flow: row;
+  /* Отступы между ячейками */
+  gap: 20px;
+}
+
+.item3 {
+  /* Занимает один ряд и растягивается на две колонки */
+  grid-column: span 2;
+}
